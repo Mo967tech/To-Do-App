@@ -1,6 +1,6 @@
 # to_do
 
-A new Flutter project.
+Created a to-do with create, edit, delete and store to-do item
 
 ## Getting Started
 
